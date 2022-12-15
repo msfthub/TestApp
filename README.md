@@ -13,7 +13,8 @@ To proceed, first enable Instant Apps on your Android phone (Android 6+) in **Se
 ![Instant App loading](/screenshots/instantTripLoadingHalf.jpg?raw=true)
 ![Trips details](/screenshots/sampleTripDetailsHalf.jpg?raw=true)
 
-
+![Instant App loading](/screenshots/instantTripLoadingHalf.jpg?raw=true)
+![Trips details](/screenshots/sampleTripDetailsHalf.jpg?raw=true)
 
 # Setup
 These are the prerequisites that you will need in order to start and run the project.
