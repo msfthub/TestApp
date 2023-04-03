@@ -43,6 +43,8 @@ Now you can try to run the project on a device or emulator (beware that minimal 
 
 ![list of trips](/screenshots/sampleListOfTrips.jpg?raw=true)
 ![trips details](/screenshots/sampleTripDetails.jpg?raw=true)
+![list of trips](/screenshots/sampleListOfTrips.jpg?raw=true)
+![trips details](/screenshots/sampleTripDetails.jpg?raw=true)
 
 # Moving to a single feature module App
 
